@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: sf_12
+  m_Shader: {fileID: 4800000, guid: 97330d179cf16c044a7ecb590e5c7927, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 11c4ddcc166c8ea4bbc9b9921fae5e82, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 717ddb951d814d44599c2fae4879ed53, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: 82578c95f771f7646919e0f00d659ab8, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _V_CW_IBL_Cube
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _V_CW_Specular_Lookup
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .314542919
+      data:
+        first:
+          name: V_CW_TAG
+        second: 0
+      data:
+        first:
+          name: V_CW_D_OPTIONS
+        second: 0
+      data:
+        first:
+          name: V_CW_W_OPTIONS
+        second: 0
+      data:
+        first:
+          name: _V_CW_Z_Bend_Size
+        second: 7.19000006
+      data:
+        first:
+          name: _V_CW_Z_Bend_Bias
+        second: 1.53999996
+      data:
+        first:
+          name: _V_CW_Y_Bend_Size
+        second: -5.71999979
+      data:
+        first:
+          name: _V_CW_X_Bend_Size
+        second: 2.67000008
+      data:
+        first:
+          name: _V_CW_Camera_Bend_Offset
+        second: 0
+      data:
+        first:
+          name: _V_CW_Rim_Bias
+        second: .200000003
+      data:
+        first:
+          name: _V_CW_Fog_Density
+        second: 1
+      data:
+        first:
+          name: _V_CW_Fog_Start
+        second: 0
+      data:
+        first:
+          name: _V_CW_Fog_End
+        second: 100
+      data:
+        first:
+          name: _V_CW_IBL_Intensity
+        second: 1
+      data:
+        first:
+          name: _V_CW_IBL_Contrast
+        second: 1
+      data:
+        first:
+          name: _V_CW_Emission_Strength
+        second: 1
+      data:
+        first:
+          name: _V_CW_Specular_Intensity
+        second: 1
+      data:
+        first:
+          name: _V_CW_Fresnel_Bias
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: .365671635, g: .365671635, b: .365671635, a: .501960814}
+      data:
+        first:
+          name: _V_CW_Rim_Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _V_CW_Fog_Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _V_CW_Emission_Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6
