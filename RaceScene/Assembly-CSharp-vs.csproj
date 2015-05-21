@@ -233,6 +233,7 @@
      <Compile Include="Assets\Game\Networking\RestarterNew.cs" />
      <Compile Include="Assets\Game\Resources\Checkpoint.cs" />
      <Compile Include="Assets\Game\Resources\Laps.cs" />
+     <Compile Include="Assets\Game\Resources\SpeedBooster.cs" />
      <Compile Include="Assets\Hover\HoverCarControl.cs" />
      <Compile Include="Assets\Hover\HoverFollowCam.cs" />
      <Compile Include="Assets\HoverAudio.cs" />
